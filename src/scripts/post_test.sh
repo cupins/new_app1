@@ -1,7 +1,7 @@
 # heroku
-ENDPOINT=https://secure-shelf-31797.herokuapp.com/rest/generic
+#ENDPOINT=https://secure-shelf-31797.herokuapp.com/rest/generic
 # local web runner deploy
-#ENDPOINT=http://localhost:8080/rest/generic
+ENDPOINT=http://localhost:8080/rest/generic
 # net beans deploy
 #ENDPOINT=http://localhost:8084/sample_maven_web_app/rest/generic
 # manual deploy
